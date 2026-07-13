@@ -1,6 +1,4 @@
 
-
-
 <title>Convite Especial ❤️</title>
 
 <style>
@@ -93,7 +91,6 @@ button:hover{
     margin-top:20px;
 }
 </style>
-</head>
 
 <body>
 
