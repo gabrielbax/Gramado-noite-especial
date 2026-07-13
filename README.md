@@ -192,4 +192,3 @@ emoji.remove();
 </script>
 
 </body>
-</html>
